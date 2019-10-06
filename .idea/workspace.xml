@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0b6d2c08-cdf3-42d9-afdd-d3c943e55e67" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Person/Person.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/Person/Person.js" afterDir="false" />
-    </list>
+    <list default="true" id="0b6d2c08-cdf3-42d9-afdd-d3c943e55e67" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,7 +66,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1570350323723</updated>
-      <workItem from="1570350325426" duration="5006000" />
+      <workItem from="1570350325426" duration="5278000" />
     </task>
     <task id="LOCAL-00001" summary="Init commit &#10;setState">
       <created>1570356100680</created>
@@ -79,7 +75,14 @@
       <option name="project" value="LOCAL" />
       <updated>1570356100680</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="setState configure onclick for changing the props value of persons age and name">
+      <created>1570356469551</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1570356469551</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -98,6 +101,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Init commit &#10;setState" />
-    <option name="LAST_COMMIT_MESSAGE" value="Init commit &#10;setState" />
+    <MESSAGE value="setState configure onclick for changing the props value of persons age and name" />
+    <option name="LAST_COMMIT_MESSAGE" value="setState configure onclick for changing the props value of persons age and name" />
   </component>
 </project>
