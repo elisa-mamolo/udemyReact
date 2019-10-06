@@ -17,10 +17,11 @@ class App extends Component {
         //ALWAYS use this.setState() METHOD
         //setState takes an object as argument and merge what is defined with the existing state
         this.setState({
+            //setState ovverride the updated values
             persons: [
-                { name: 'elisa', age: 25 },
+                { name: 'elisabeth', age: 25 },
                 { name: 'max', age: 15 },
-                { name: 'Jim', age: 35 }
+                { name: 'Jim', age: 39 }
                 ]
         //DO NOT DO IT IN THIS WAT
         //select the first element in the array and change the value
